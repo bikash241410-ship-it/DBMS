@@ -159,3 +159,6 @@ SET credit_hour = 5
 WHERE course_name = 'Data Structures';
 
 SELECT *FROM courses
+
+
+--some other question in day 4 file
